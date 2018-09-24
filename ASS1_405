@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Google image</title>
+</head>
+<body>
+
+    <h1>Google</h1>
+
+
+<form>
+    <input type="text" name="search" placeholder=""  size="70"> <br>
+    
+</form>
+    <br>
+   
+    
+
+       
+
+
+
+</body>
+</html>
+
